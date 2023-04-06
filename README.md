@@ -1,8 +1,8 @@
 ### Hi there, I'm Emad 👋
 
-- 🔭 I’m currently working on __applied crypto__ ([MPC][mpc], [ZKP][zkp], [PBC][pbc], etc.) & __data-intensive middleware__
+- 🔭 I’m currently working on __applied cryptography__ ([MPC][mpc], [ZKP][zkp], [PBC][pbc], etc.) & __data-intensive middleware__
 - 🌱 I’m currently learning ZKPs & [lattice-based cryptography][pqc]
-- 👯 I’m looking to collaborate on lattice-based & privacy-preserving ZKP
+- 👯 I’m looking to collaborate on lattice-based cryptography & privacy-preserving ZKP
 - 💬 Ask me about anything related to applied cryptography
 - 📫 How to reach me: [Twitter][twitter], [heydari.be][website], [Bell Labs][belllabs], [COSIC][cosic]
 
