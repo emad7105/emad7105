@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [website]: https://heydari.be
 [twitter]: https://twitter.com/heydari_be
 [belllabs]: https://www.bell-labs.com/about/researcher-profiles/emad-heydari_beni/
-[cosic]: https://www.esat.kuleuven.be/cosic/people/emad-heydari-beni/
+[cosic]: https://www.esat.kuleuven.be/cosic/people/person/?u=u0102817
 [mpc]: https://en.wikipedia.org/wiki/Secure_multi-party_computation
 [zkp]: https://en.wikipedia.org/wiki/Zero-knowledge_proof
 [pbc]: https://en.wikipedia.org/wiki/Pairing-based_cryptography
